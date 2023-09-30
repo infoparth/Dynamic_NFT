@@ -1,17 +1,13 @@
-## Foundry
+## DCS
 
-**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
+**This repo contains the smart contract for the Proof of Learn(PoL) ERC721 NFT**
 
-Foundry consists of:
+It's features are :
 
--   **Forge**: Ethereum testing framework (like Truffle, Hardhat and DappTools).
--   **Cast**: Swiss army knife for interacting with EVM smart contracts, sending transactions and getting chain data.
--   **Anvil**: Local Ethereum node, akin to Ganache, Hardhat Network.
--   **Chisel**: Fast, utilitarian, and verbose solidity REPL.
+-   It's dynamic in nature
+-   It's a soul-bound NFT
+-   It can't be burned
 
-## Documentation
-
-https://book.getfoundry.sh/
 
 ## Usage
 
